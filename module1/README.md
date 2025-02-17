@@ -1,6 +1,8 @@
 ## Overview
 ## Overview of AI Algorithms Module
 
+
+HERE TO THIS !!!
 This module delves into the fundamental algorithms that drive artificial intelligence. Spanning from basic concepts to advanced machine learning techniques, students will explore how AI algorithms operate, learn to implement them, and understand their applications and limitations in various domains. The module is designed for both theoretical knowledge and practical skills, ensuring students can apply what they learn to real-world problems.
 
 ## Topics
